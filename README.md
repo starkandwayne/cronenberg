@@ -66,4 +66,5 @@ This is just a YAML file containing an array of Job objects. Here's an example j
 
 ## History ##
 
+* v1.0.1 - The Hard Forkening
 * v1.0.0 - Initial Release
